@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user: one
+  group: one
+  date: 2020-12-29
+  options: one
+
+two:
+  name: MyString
+  user: two
+  group: two
+  date: 2020-12-29
+  options: two
